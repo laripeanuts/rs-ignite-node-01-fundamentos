@@ -1,0 +1,13 @@
+{
+  "name": "rs-01-fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/serves.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
