@@ -3,8 +3,6 @@
   <p>Rocketseat · Formação NodeJS Ignite · 2023</p>
 </div>
 
----
-
 ## 💡 Projeto
 
 Desenvolvimento de uma API RESTful com nodejs, focando nos fundamentos, sem utilização de frameworks ou bibliotecas externas.
