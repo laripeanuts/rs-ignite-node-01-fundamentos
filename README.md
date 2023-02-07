@@ -60,4 +60,4 @@ Inicie o ambiente de desenvolvimento
 
 ---
 
-<p align="center">Copyright 2022 ☕<a href="https://github.com/laripeanuts"> laripeanuts</a></p>
+<p align="center">Copyright 2023 ☕<a href="https://github.com/laripeanuts"> laripeanuts</a></p>
