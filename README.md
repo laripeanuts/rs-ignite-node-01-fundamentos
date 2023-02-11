@@ -9,7 +9,7 @@ Desenvolvimento de uma API RESTful com nodejs, focando nos fundamentos, sem util
 
 ## 🎯 Objetivos
 
-Por meio deste projeto, foi possível aprender os fundamentos do ReactJS, como:
+Por meio deste projeto, foi possível aprender os fundamentos do NodeJS, como:
 
 - [x] API RESTful sem utilização de libs externas
 - [x] HTTP
